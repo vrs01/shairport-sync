@@ -35,6 +35,7 @@ $ cd libconfig-1.5
 $ ./configure
 $ make
 $ make install
+$ cd ..
 ``` 
 * Next, download, configure and compile Shairport Sync:
 ```
